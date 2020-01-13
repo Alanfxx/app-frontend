@@ -1,4 +1,4 @@
 export interface FieldMessage {
-    FieldName: string
+    fieldName: string
     message: string
 }
